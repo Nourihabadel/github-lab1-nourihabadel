@@ -1,3 +1,4 @@
 TEAMNOTES
 
 Repository created for the GitHub lab.
+Remote edit created from GitHub.
